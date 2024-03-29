@@ -124,11 +124,11 @@ Q&A Week
 ### Week 10: Final Challenge
 Evaluation
 
-### Useful Links: 
-  #### Ubuntu
+## Useful Links: 
+  ### Ubuntu
    * [Ubuntu Installation](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
   
-  #### ROS
+  ### ROS
    * [ROS Installation](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
    * [ROS book](https://github.com/fmrico/book_ros2)
    * [ROS Packages](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html)
@@ -140,11 +140,11 @@ Evaluation
    * [ROS Custom Interfaces](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
    * [Parameters](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Using-Parameters-In-A-Class-Python.html)
 
-  #### Virtual Machine: 
+  ### Virtual Machine: 
    * [VM Ware](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1750&productId=1377&rPId=111473)
    * [ROS Preinstalled VM](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EWcRInLzqDZNpxqWlH3X0sQBGXgbTSj9Qp1VX7O_sGy4zQ?e=sIq2xd)
 
-  #### Resources
+  ### Resources
    * [Introduction to Autonomous Mobile Robots](https://ieeexplore.ieee.org/book/6267528)
    * [PID Control](https://ieeexplore.ieee.org/document/1453566)
    * [Closed Loop Control](https://www.electronics-tutorials.ws/systems/closed-loop-system.html)
