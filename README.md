@@ -23,7 +23,32 @@
    
 ## General Information
 * Duration: 10 Weeks
-* Classes: Monday and Thursday  (1 – 2 PM)
-* Starts: 27 March.
-* Ends: 16 June
+* Sessions: Thursdays  (13:00 – 15:00)
+* Starts: April 1st
+* Ends: June 14th
 * ZOOM Link Classes: https://itesm.zoom.us/j/4779422764
+
+## Live Sessions (Recordings)
+https://drive.google.com/drive/folders/1q1FLw9df18JEB5NbzqEM48_30Une512R?usp=drive_link
+
+## General Requirements
+General requirements. Please be aware that a set of requirements especific for each session will be shown in each session subsection (Some items may be repeated).
+* Computer with access to Zoom (online classes).
+* Computer with Ubuntu 22.04 and ROS Humble or [MCR2 virtual machine](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EWcRInLzqDZNpxqWlH3X0sQBGXgbTSj9Qp1VX7O_sGy4zQ?e=AMOocL).
+* Knowledge of ROS.
+* Knowledge of Windows. 
+* Basic knowledge of Ubuntu (recommended).
+* Basic understanding of robotics (recommended).
+* Access to a Puzzlebot Jetson Edition.
+
+## Weekly Sessions
+### Week 1: Mobile Robots – Fundamentals
+This week the student will learn to basics of mobile robotics.
+* Introduction to mobile robotics.
+* Puzzlebot
+* Robot assembly
+* Image installation
+* Hackerboard firmware
+
+**Mini challenge:**
+ROS2-Puzzlebot Joystick Activity (Professors in Campus) Drive the Puzzlebot using the joystick package.
